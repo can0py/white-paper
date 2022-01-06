@@ -1,1 +1,1 @@
-# white-paper
+# Can0py White Paper
